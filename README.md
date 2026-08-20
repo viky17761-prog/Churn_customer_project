@@ -1,6 +1,4 @@
-
 📊 Customer Churn Analysis
-� � �
 📌 Project Overview
 An end-to-end Customer Churn Analysis project using Python, Pandas, Excel, and Power BI to identify customer churn patterns and generate actionable business insights.
 🎯 Objectives
@@ -35,10 +33,7 @@ The analysis helps identify customer segments with higher churn and understand h
 📁 Project Files
 Churn_Unclean_Project.xlsx — Raw Dataset
 churn._xlsx16.ipynb — Data Cleaning & EDA
-Customer_churn_dashboard.pbix — Power BI Dashboard
-🚀 Future Improvements
-Build a Machine Learning model for churn prediction.
-Add advanced customer segmentation.
-Develop more detailed retention recommendations.
+Customer_churn_dashboard.pbix — Power BI Dashboard.
+
 👨‍💻 Author Vikash Kumar 
-GitHub | LinkedIn
+LinkedIn https://www.linkedin.com/in/vikash-kumar-33138a169 
